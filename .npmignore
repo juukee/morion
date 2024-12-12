@@ -1,0 +1,13 @@
+.editorconfig
+.idea
+.jsdoc.json
+.travis.yml
+morion.svg
+docs
+.nyc_output
+coverage
+History.md
+Makefile
+renovate.json
+test
+tsconfig.tsbuildinfo

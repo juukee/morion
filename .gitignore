@@ -1,0 +1,10 @@
+node_modules
+coverage.html
+.idea
+.DS_Store
+docs/morion/*
+!docs/morion/1.x/
+dist
+.nyc_output
+coverage
+tsconfig.tsbuildinfo
